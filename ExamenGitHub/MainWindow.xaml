@@ -8,6 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Label Content="ROBBE CANETTA" HorizontalAlignment="Left" Height="112" Margin="315,156,0,0" VerticalAlignment="Top" Width="271"/>
+        <Label Content="TOM GENBRUGGE" HorizontalAlignment="Left" Height="112" Margin="315,250,0,0" VerticalAlignment="Top" Width="271"/>
 
     </Grid>
 </Window>
