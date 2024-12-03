@@ -8,6 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button Content="Button" HorizontalAlignment="Center" Height="215" VerticalAlignment="Center" Width="464"/>
+        <Button Content="Robbe canetta" HorizontalAlignment="Left" Height="215" VerticalAlignment="Top" Width="464" Margin="309,171,0,0"/>
 
     </Grid>
 </Window>
